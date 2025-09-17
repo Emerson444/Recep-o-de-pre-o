@@ -9,7 +9,7 @@ Substitui completamente a tabela preco com os novos dados.
 Loga as atividades e possíveis erros no terminal.
 </b>
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas:
 Python 3
 pandas
 SQLAlchemy
